@@ -47,7 +47,7 @@
   }
   
   a:link {
-    color: var(--text-color);
+    color: #090909;
     text-decoration: none;
   }
   
@@ -60,7 +60,7 @@
   }
 
   a:active {
-    color: var(--color-light-grey);
+    background-color: var(--color-light-grey);
   }
 
   .visually-hidden {
