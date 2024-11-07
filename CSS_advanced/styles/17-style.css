@@ -243,8 +243,8 @@ html {
   }
 
   .section-body {
-    padding: var(--section-footer-padding);
-    text-align: var(--section-footer-align);
+    padding: var(--section-body-padding);
+    text-align: var(--section-body-align);
   }
 
   .section-footer {
