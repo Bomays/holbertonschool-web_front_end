@@ -24,10 +24,9 @@ html {
   }
   
   .card-category {
-    color: #d73953;
+    color: var(--text-color);
   }
   
   .section-tagline {
-    color: #d73953;
+    color: var(--color-primary);
   }
-
