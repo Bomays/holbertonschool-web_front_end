@@ -237,7 +237,7 @@ html {
   [data-section-theme=“dark”] {
    --text-color: var(--color-white);
    --section-title-color: var(--color-white);
-   color: var(--color-black);
+   background-color: var(--color-black);
   }
 
   h1,
