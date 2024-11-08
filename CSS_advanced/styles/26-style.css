@@ -307,11 +307,7 @@ html {
     text-align: var(--section-header-align);
     padding: var(--section-header-padding);
   }
-  
-  .section-body {
-    padding: var(--section-body-padding);
-  }
-  
+
   .card-services .card-title {
     margin: 0;
   }
@@ -338,10 +334,15 @@ html {
     height: 10rem;
   }
 
-  .card-testimonial .card-quote cite> {
+  .card-testimonial .card-quote cite {
     display: block;
-    padding-top: 1rem;
+    padding-top: 1rem;;
     color: var(--color-primary);
+  }
+
+  
+  .section-body {
+    padding: var(--section-body-padding);
   }
   
   .section-footer {
